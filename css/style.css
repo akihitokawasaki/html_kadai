@@ -144,9 +144,8 @@ ul.top_menu {
   padding: 20px;
   text-align: center;
   color: white;
-  position: ;
 
 }
 .btn:hover {
-
+  opacity: 0.8;
 }
